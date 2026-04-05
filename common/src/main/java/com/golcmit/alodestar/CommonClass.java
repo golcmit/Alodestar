@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.golcmit.alodestar;
 
-import com.example.examplemod.platform.Services;
+import com.golcmit.alodestar.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Items;
 

@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.golcmit.alodestar;
 
 
 import net.neoforged.bus.api.IEventBus;

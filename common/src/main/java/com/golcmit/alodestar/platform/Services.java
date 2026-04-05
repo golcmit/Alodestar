@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package com.golcmit.alodestar.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.golcmit.alodestar.Constants;
+import com.golcmit.alodestar.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
