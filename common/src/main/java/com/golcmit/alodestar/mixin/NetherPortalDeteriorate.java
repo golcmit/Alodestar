@@ -11,7 +11,7 @@ import org.spongepowered.asm.mixin.injection.ModifyArgs;
 import org.spongepowered.asm.mixin.injection.Redirect;
 import org.spongepowered.asm.mixin.injection.invoke.arg.Args;
 
-@Mixin(Entity.class)  // ← NetherPortalBlock から Entity に変更！
+@Mixin(Entity.class)
 public class NetherPortalDeteriorate {
 
     @Redirect(
