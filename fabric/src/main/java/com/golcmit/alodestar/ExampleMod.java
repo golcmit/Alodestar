@@ -1,5 +1,7 @@
 package com.golcmit.alodestar;
 
+import com.golcmit.alodestar.core.CommonClass;
+import com.golcmit.alodestar.core.Constants;
 import net.fabricmc.api.ModInitializer;
 
 public class ExampleMod implements ModInitializer {

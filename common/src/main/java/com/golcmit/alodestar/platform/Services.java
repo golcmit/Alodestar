@@ -1,6 +1,6 @@
 package com.golcmit.alodestar.platform;
 
-import com.golcmit.alodestar.Constants;
+import com.golcmit.alodestar.core.Constants;
 import com.golcmit.alodestar.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;

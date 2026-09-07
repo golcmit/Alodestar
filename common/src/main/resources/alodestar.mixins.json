@@ -8,7 +8,8 @@
   "client": [
     "MixinMinecraft",
     "NetherPortalDeteriorate",
-    "Astarize"
+    "Astarize",
+    "MixinSlimeChunk"
   ],
   "server": [],
   "injectors": {

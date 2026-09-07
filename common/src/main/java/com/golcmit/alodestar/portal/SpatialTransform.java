@@ -1,4 +1,4 @@
-package com.golcmit.alodestar;
+package com.golcmit.alodestar.portal;
 
 public class SpatialTransform {
 

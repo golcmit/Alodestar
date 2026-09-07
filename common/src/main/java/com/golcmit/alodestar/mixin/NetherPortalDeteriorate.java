@@ -1,6 +1,6 @@
 package com.golcmit.alodestar.mixin;
 
-import com.golcmit.alodestar.SpatialTransform;
+import com.golcmit.alodestar.portal.SpatialTransform;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.level.Level;

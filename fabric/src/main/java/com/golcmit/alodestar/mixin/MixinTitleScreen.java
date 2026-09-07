@@ -1,6 +1,6 @@
 package com.golcmit.alodestar.mixin;
 
-import com.golcmit.alodestar.Constants;
+import com.golcmit.alodestar.core.Constants;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

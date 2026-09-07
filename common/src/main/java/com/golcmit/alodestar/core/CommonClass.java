@@ -1,4 +1,4 @@
-package com.golcmit.alodestar;
+package com.golcmit.alodestar.core;
 
 import com.golcmit.alodestar.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;

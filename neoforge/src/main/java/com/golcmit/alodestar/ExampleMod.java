@@ -1,6 +1,8 @@
 package com.golcmit.alodestar;
 
 
+import com.golcmit.alodestar.core.CommonClass;
+import com.golcmit.alodestar.core.Constants;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
